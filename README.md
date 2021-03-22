@@ -1,1 +1,3 @@
-I worked on this with another student so not everything uploaded is my own work. Please download it to see everything in their original form.
+About this project:
+My teammate and I analyzed if/how Seattle’s North Transfer Station can use year-round solar energy. You can see our detailed graphs/analysis in Solar Final Report.pdf
+
