@@ -7,3 +7,5 @@ You can see our detailed graphs/analysis in Solar Final Report.pdf
 Data source:
 https://www.kaggle.com/city-of-seattle/seattle-north-transfer-station-solar-panels
 
+Note: Please download this repo. Some files cannot display properly on GitHub. 
+
